@@ -1,0 +1,7 @@
+2021-04-19 09:57:19,682 WARN  [DefaultSoapUICore] Missing folder [/home/kwizera/ext] for external libraries
+2021-04-19 09:57:19,904 INFO  [DefaultSoapUICore] initialized soapui-settings from [/home/kwizera/soapui-settings.xml]
+2021-04-19 09:57:20,377 INFO  [WorkspaceImpl] Loading workspace from [/home/kwizera/intellij-soapui-workspace.xml]
+2021-04-19 10:08:26,851 INFO  [WorkspaceImpl] Saved workspace to [/home/kwizera/intellij-soapui-workspace.xml]
+2021-04-19 10:08:26,856 INFO  [DefaultSoapUICore] Settings saved to [/home/kwizera/soapui-settings.xml]
+2021-04-19 10:08:38,257 INFO  [WorkspaceImpl] Saved workspace to [/home/kwizera/intellij-soapui-workspace.xml]
+2021-04-19 10:08:38,258 INFO  [DefaultSoapUICore] Settings saved to [/home/kwizera/soapui-settings.xml]
